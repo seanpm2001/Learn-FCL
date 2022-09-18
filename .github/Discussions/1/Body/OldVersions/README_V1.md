@@ -1,5 +1,3 @@
-Welcome to Learn-FCL Discussions! #1
-
 <!--
     ✏️ Optional: Customize the content below to let your community know what you intend to use Discussions for.
 -->
@@ -22,5 +20,3 @@ Welcome to Learn-FCL Discussions! #1
 
   ➡️ You can **convert issues to discussions** either individually or bulk by labels. Looking at you, issues labeled “question” or “discussion”.
 -->
-
-https://github.com/seanpm2001/Learn-FCL/discussions/1
